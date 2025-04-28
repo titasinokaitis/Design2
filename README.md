@@ -13,7 +13,7 @@
  
  This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
  
- Site published at: https://front-end-by-rimantas.github.io/55-grupe-astronautas
+ Site published at: https://titasinokaitis.github.io/Design2
  
  Design: ![alt text](./original-design.png)
  
@@ -59,7 +59,7 @@
  
  1. Clone the repo
      ```sh
-     git clone https://github.com/front-end-by-rimantas/54-grupe-astronautas.git
+     git clone https://github.com/titasinokaitis/Design2.git
      ```
  2. Install NPM packages
      ```sh
@@ -80,7 +80,7 @@
  
  ## 🎅 Authors
  
- Rimantas: [Github](https://github.com/belauzas)
+ Rimantas: [Github](https://github.com/titasinokaitis)
  
  ## ⚠️ License
  
