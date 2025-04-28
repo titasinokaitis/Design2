@@ -80,7 +80,7 @@
  
  ## 🎅 Authors
  
- Rimantas: [Github](https://github.com/titasinokaitis)
+ Titas: [Github](https://github.com/titasinokaitis)
  
  ## ⚠️ License
  
